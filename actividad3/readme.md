@@ -69,3 +69,8 @@ Se crea un archivo y un directorio para ejemplo, luego se listan los permisos
 
  ### VERIFICACION FINAL
  ![](./imagenes/captura16.png)
+
+
+ ## SECCION OPCIONAL
+   :pushpin:  ¿Por qué es importante gestionar correctamente los usuarios y permisos en un sistema operativo? Principalmente por temas de seguridad, debido a que pueden existir usuarios con diferentes roles 
+    :pushpin: ¿Qué otros comandos o técnicas conocen para gestionar permisos en Linux? De manera grafica 
